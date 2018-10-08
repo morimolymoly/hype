@@ -29,7 +29,7 @@ cscope.out
 cscope.po.out
 .config
 .vimrc
-
+*.d
 dist
 stubdom/*.tar.gz
 
@@ -514,4 +514,7 @@ xen/xen.efi
 xen/xen.efi.map
 xen/xen.gz
 tools/firmware/xen-dir/shim.config
+tools/libxl/libxlu_disk_l.c
+tools/libxl/libxlu_disk_l.h
+
 
